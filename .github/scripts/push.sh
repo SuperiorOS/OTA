@@ -9,4 +9,4 @@ rm release_notes.txt
 rm urls.txt
 git add .
 git commit -m "$COMMIT_MESSAGE"
-git push origin sixteen-los
+git push origin 16.2

@@ -166,8 +166,8 @@ def cook_content(information):
         "▫️ " + bold("Date: ","<code>" + str(buildtime)) + "</code>" + "\n" + \
         "▫️ " + bold("SHA256: ","<code>" + str(information['id'])) + "</code>" + "\n" + \
         "▫️ " + bold("Download: ", "<a href=\"https://sourceforge.net/projects/superioros/files/"  + str(information['device']) + "/"  + str(information["filename"]) + "\">Sourceforge</a>") + "\n" + \
-        "▫️ " + bold("Changelog: ", "<a href=\"https://raw.githubusercontent.com/SuperiorOS/OTA/blob/sixteen-los/source_changelogs.txt\">Source</a>" + " | " + "<a href=\"https://raw.githubusercontent.com/SuperiorOS/OTA/sixteen-los/changelogs/sixteen_" + str(information['device']) + ".txt\"> Device</a>") + "\n" + \
-        "▫️ " + bold("Flashing Method: ", "<a href=\"https://github.com/SuperiorOS/OTA/sixteen-los/flashing_method/" + str(information['device']) + ".md\">Here</a>") + "\n" + \
+        "▫️ " + bold("Changelog: ", "<a href=\"https://raw.githubusercontent.com/SuperiorOS/OTA/blob/16.2/source_changelogs.txt\">Source</a>" + " | " + "<a href=\"https://raw.githubusercontent.com/SuperiorOS/OTA/16.2/changelogs/sixteen_" + str(information['device']) + ".txt\"> Device</a>") + "\n" + \
+        "▫️ " + bold("Flashing Method: ", "<a href=\"https://github.com/SuperiorOS/OTA/16.2/flashing_method/" + str(information['device']) + ".md\">Here</a>") + "\n" + \
         "▫️ " + bold("Donate: ", "<a href=\"https://www.paypal.me/Sipun\">Paypal</a>" + " | " + "<a href=\"https://drive.google.com/file/d/1RX_ZwIk43kJ3xl-vdNHuClS0qfVH_3hS\"> UPI</a>") + "\n\n" + \
         "#" + str(information['device']) + " | #besuperior | @superioros"
     return message
