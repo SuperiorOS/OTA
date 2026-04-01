@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1775037534,
-      "filename": "SuperiorOS-16.2-20260401-0958-OFFICIAL-GAPPS-violet-delta.zip",
-      "id": "44986eba1a6f7dba8d6f3e844b25190e44cfb2e0",
+      "datetime": 1775041257,
+      "filename": "SuperiorOS-16.2-20260401-1100-OFFICIAL-GAPPS-violet-delta.zip",
+      "id": "a1b344df0fed9e3a10dda5d2a31633a0657dae7c",
       "romtype": "OFFICIAL",
-      "size": 55910825,
-      "url": "https://master.dl.sourceforge.net/project/superioros/violet/SuperiorOS-16.2-20260401-0958-OFFICIAL-GAPPS-violet-delta.zip",
+      "size": 20603819,
+      "url": "https://master.dl.sourceforge.net/project/superioros/violet/SuperiorOS-16.2-20260401-1100-OFFICIAL-GAPPS-violet-delta.zip",
       "version": "16.2",
       "device_name": "Xiaomi Redmi Note 7 Pro",
       "maintainer": "Nipin NA (@Joker_V2_0)"
