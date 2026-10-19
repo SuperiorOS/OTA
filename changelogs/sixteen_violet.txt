@@ -1,1 +1,3 @@
-- Fixed broken USB stuffs
+- Final A16 release
+- Clean flash is mandatory
+- Switched to lineage device resources

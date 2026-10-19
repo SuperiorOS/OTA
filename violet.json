@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1785385315,
-      "filename": "SuperiorOS-16.2-20260730-0421-OFFICIAL-GAPPS-violet-signed-fullota.zip",
-      "id": "fded57def19dd409c82e748dbd28148d5d226c72",
+      "datetime": 1792398613,
+      "filename": "SuperiorOS-16.2-20261019-0830-OFFICIAL-EOL-GAPPS-violet-signed-fullota.zip",
+      "id": "b08dbc2c03d8ebe1acfdcb52a992b05ec563f814",
       "romtype": "OFFICIAL",
-      "size": 1694804676,
-      "url": "https://master.dl.sourceforge.net/project/superioros/violet/SuperiorOS-16.2-20260730-0421-OFFICIAL-GAPPS-violet-signed-fullota.zip",
+      "size": 1630298273,
+      "url": "https://master.dl.sourceforge.net/project/superioros/violet/SuperiorOS-16.2-20261019-0830-OFFICIAL-EOL-GAPPS-violet-signed-fullota.zip",
       "version": "16.2",
       "device_name": "Xiaomi Redmi Note 7 Pro",
       "maintainer": "Nipin NA (@Joker_V2_0)"
